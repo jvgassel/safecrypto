@@ -1,0 +1,11 @@
+# Privé / ledengids materiaal, blijft buiten de publieke repo
+leden-gids.html
+leden-gids.pdf
+telegram-bericht.md
+
+# Lokale/sessie bestanden
+.claude/
+test-filter.html
+
+# OS
+.DS_Store
